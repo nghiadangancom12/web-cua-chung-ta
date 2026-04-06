@@ -1,0 +1,17 @@
+﻿method_code;method_name
+100;Xét tuyển bằng kết quả thi tốt nghiệp THPT
+200;Xét tuyển bằng kết quả học tập THPT (Học bạ)
+301;Xét tuyển thẳng theo quy chế của Bộ GD&ĐT
+401;Thi ĐGNL, ĐGTD do CSĐT tự tổ chức
+402;Sử dụng kết quả thi ĐGNL, ĐGTD do đơn vị khác tổ chức
+403;Thi văn hóa do CSĐT tổ chức
+405;Kết hợp điểm thi THPT với điểm thi năng khiếu
+406;Kết hợp học bạ THPT với điểm thi năng khiếu
+407;Kết hợp điểm thi THPT với kết quả học tập THPT
+408;Kết hợp điểm thi THPT với chứng chỉ quốc tế
+409;Kết hợp học bạ THPT với chứng chỉ quốc tế
+410;Xét kết quả học tập THPT với chứng chỉ quốc tế
+411;Xét tuyển học sinh tốt nghiệp THPT ngoài nước
+415;Sử dụng kết quả thi SAT, ACT, AP...
+416;Xét tuyển bằng kết quả thi V-SAT
+500;Các phương thức khác
