@@ -224,11 +224,11 @@ def main():
         import_bang5(cur, bang5)   # passing_scores (FK → majors, methods)
 
         conn.commit()
-        print("\n✅ Import hoàn tất!")
+        print("\n Import hoàn tất!")
 
     except Exception as e:
         conn.rollback()
-        print(f"\n❌ Lỗi: {e}")
+        print(f"\n Lỗi: {e}")
         raise
     finally:
         cur.close()
